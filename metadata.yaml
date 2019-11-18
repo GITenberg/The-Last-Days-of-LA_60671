@@ -1,5 +1,5 @@
 _repo: The-Last-Days-of-LA_60671
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Orban, Paul
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1974
     gutenberg_agent_id: '34272'
     url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 60671-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George H. (George Henry)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33574
     wikipedia: https://en.wikipedia.org/wiki/George_H._Smith_(fiction_author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60671#The-Last-Days-of-LA
 gutenberg_issued: '2019-11-11'
 gutenberg_type: Text
 identifiers:
